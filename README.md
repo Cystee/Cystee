@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cystee
-- 👀 I’m interested in photography</code>, Minecraft</code> and <code>IT</code> & <code>Coding</code>
+- 👀 I’m interested in <code>photography</code>, <code>Minecraft</code> and <code>IT</code> & <code>Coding</code>
 - 🌱 I’m currently learning <code>Chinese</code>, <code>Mathematics</code>, <code>English</code>, <code>Physics</code>, <code>Biology</code>, <code>Geography</code>, <code>WordPress</code>, <code>SEO</code>, <code>C++</code>
 - 💞️ I’m looking to collaborate on <code>VS Code</code>
 - 📫 How to reach me: <a href="https://cusalt.com/nabout.html">About Me</a>
