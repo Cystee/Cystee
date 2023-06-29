@@ -11,5 +11,10 @@
 ## 🗒️Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ArcGIS 安装简要教程](https://www.casecori.top/archives/5ced.html)
+- [从 K 银轴到极地狐轴，我是如何做到一把键盘用两种轴体的？](https://www.casecori.top/archives/36c3.html)
+- [自动遍历目录内图片并生成 owo.json by ChatGPT](https://www.casecori.top/archives/6026.html)
+- [记网页笔记常用网站推荐](https://www.casecori.top/archives/6bce.html)
+- [Butterfly 主题设置视频为头图](https://www.casecori.top/archives/cb2a.html)
 <!-- BLOG-POST-LIST:END -->
 
