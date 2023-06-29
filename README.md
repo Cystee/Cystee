@@ -18,3 +18,10 @@
 - [Butterfly 主题设置视频为头图](https://www.casecori.top/archives/cb2a.html)
 <!-- BLOG-POST-LIST:END -->
 
+## 🎈About My Spare Time
+
+Study: Geography needs you to both memorize, think and calculate.
+Programming: As a blogger treat UE as a matter, DIY takes most of my coding time(That is, to write BUGs).
+Gaming: Join me to play Minecraft! Normally I play Hypixel Bed Wars, and sometimes I contribute to my survival save. I tried running MC servers but my friends can't sapre any time.
+Genshin Impact and Star Rail scheduled daily. Here is my Genshin Profile:
+
