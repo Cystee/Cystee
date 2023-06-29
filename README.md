@@ -26,5 +26,10 @@ Programming: As a blogger treat UE as a matter, DIY takes most of my coding time
 
 Gaming: Join me to play Minecraft! Normally I play Hypixel Bed Wars, and sometimes I contribute to my survival save. I tried running MC servers but my friends can't sapre any time.
 
-Genshin Impact and Star Rail scheduled daily. Here is my Genshin Profile:
+Genshin Impact and Star Rail are scheduled daily. Here is my Genshin Profile:
 
+![My yuanshen](https://yscard.casecori.top/random/333706640.png)
+
+Shopping: To reach a better experience of typing, making my keyboard HiFi and comfortable when pressed, I buy different kind of keycaps, shafts and keyboards made with no matter aluminium or plastics and am enjoying it.
+
+### Leave advice whenever you want!
