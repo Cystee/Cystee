@@ -32,4 +32,4 @@ Genshin Impact and Star Rail are scheduled daily. Here is my Genshin Profile:
 
 Shopping: To reach a better experience of typing, making my keyboard HiFi and comfortable when pressed, I buy different kinds of keycaps, shafts and keyboards made with no matter aluminium or plastics and am enjoying it.
 
-### Leave advice whenever you want!
+**Leave advice whenever you want!**
