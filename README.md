@@ -10,7 +10,7 @@
 
 ## 🗒️Recent Posts
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/d9u8.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+<right><img src="https://uptime.betterstack.com/status-badges/v1/monitor/d9u8.svg" alt="博客状态"></right>
 
 <!-- BLOG-POST-LIST:START -->
 - [用 ArcGIS 制作一份专题地图](https://www.casecori.top/archives/9184.html)
