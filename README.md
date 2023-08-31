@@ -11,7 +11,9 @@
 ## 🗒️Recent Posts
 
 <right>
+
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/d9u8.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 </right>
 
 <!-- BLOG-POST-LIST:START -->
