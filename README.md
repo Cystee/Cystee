@@ -10,7 +10,7 @@
 
 ## 🗒️Recent Posts
 
-Status by Better Uptime:
+Before this, check my status by Better Uptime:
 
 <img src="https://uptime.betterstack.com/status-badges/v1/monitor/d9u8.svg" alt="博客状态">
 
