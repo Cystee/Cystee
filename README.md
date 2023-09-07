@@ -12,7 +12,7 @@
 
 Before this, check my status by Better Uptime:
 
-<img src="https://uptime.betterstack.com/status-badges/v1/monitor/d9u8.svg" alt="博客状态">
+[![博客状态](https://uptime.betterstack.com/status-badges/v1/monitor/d9u8.svg)](https://status.casecori.top/)
 
 <!-- BLOG-POST-LIST:START -->
 - [用 ArcGIS 制作一份专题地图](https://www.casecori.top/archives/9184.html)
