@@ -10,6 +10,8 @@
 
 ## 🗒️Recent Posts
 
+Status by Better Uptime:
+
 <img src="https://uptime.betterstack.com/status-badges/v1/monitor/d9u8.svg" alt="博客状态">
 
 <!-- BLOG-POST-LIST:START -->
