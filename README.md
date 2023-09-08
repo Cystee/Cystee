@@ -10,10 +10,6 @@
 
 ## 🗒️Recent Posts
 
-Before this, check my status by Better Uptime:
-
-[![博客状态](https://uptime.betterstack.com/status-badges/v1/monitor/d9u8.svg)](https://status.casecori.top/)
-
 <!-- BLOG-POST-LIST:START -->
 - [用 ArcGIS 制作一份专题地图](https://www.casecori.top/archives/9184.html)
 - [ArcGIS 安装简要教程](https://www.casecori.top/archives/5ced.html)
@@ -21,6 +17,8 @@ Before this, check my status by Better Uptime:
 - [自动遍历目录内图片并生成 owo.json by ChatGPT](https://www.casecori.top/archives/6026.html)
 - [记网页笔记常用网站推荐](https://www.casecori.top/archives/6bce.html)
 <!-- BLOG-POST-LIST:END -->
+
+[![博客状态](https://uptime.betterstack.com/status-badges/v1/monitor/d9u8.svg)](https://status.casecori.top/)
 
 ## 🎈About My Spare Time
 
